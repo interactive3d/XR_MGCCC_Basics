@@ -1,0 +1,4 @@
+repository "XR_MGCCC_Basics@mgccc_classroom@cloud"
+  path "/"
+    br "/main"
+    co "/main"
