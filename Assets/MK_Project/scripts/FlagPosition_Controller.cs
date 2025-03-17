@@ -17,6 +17,7 @@ public class FlagPosition_Controller : MonoBehaviour
 
     public XRKnob theWheel;
 
+    public AudioSource polishAnthemPlayer;
 
     void Update() {
         if (targetObject != null) {
@@ -41,5 +42,18 @@ public class FlagPosition_Controller : MonoBehaviour
 
     public void SetFlagPosition() {
         inputValue = theWheel.value;
+    }
+
+    public void PlayPolishAnthem()
+    {
+        Debug.Log("Play the anthem");
+        if(polishAnthemPlayer != null )
+        {
+            polishAnthemPlayer.Play();
+        }
+    }
+    public void StopPlayingPolishAnthem()
+    {
+        polishAnthemPlayer.Stop();
     }
 }

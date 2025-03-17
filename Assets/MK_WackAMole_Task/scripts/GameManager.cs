@@ -38,14 +38,16 @@ public class GameManager : MonoBehaviour {
 
         }
         if (Input.GetKeyDown(KeyCode.R)) {
+            Debug.Log("R is working");
+
             for (int i = 0; i<moles.Length; i++) {
                 moles[i].GetComponent<Animator>().SetTrigger("PopDown");
             }
         }
         if (Input.GetKeyDown(KeyCode.T)) {
+            Debug.Log("T is working");
             for (int i = 0; i < moles.Length; i++) {
                 moles[i].GetComponent<Animator>().SetTrigger("PopUp");
-
             }
         }
     }

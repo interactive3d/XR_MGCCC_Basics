@@ -705,7 +705,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 936851534}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: db0c96609bdc69b4193b095a45844cf2, type: 3}
   m_Name: 
@@ -1924,7 +1924,7 @@ MonoBehaviour:
   tipTransform: {fileID: 1868315029278644615}
   drawingMaterial: {fileID: 2100000, guid: e3f5f3629ba988346acdb612a294003c, type: 2}
   tipMaterial: {fileID: 2100000, guid: 3c2db1ae5bb9ab143ab1ad8546103ac5, type: 2}
-  penWidth: 0.001
+  penWidth: 0.0179
   penColors:
   - {r: 1, g: 0, b: 0, a: 1}
   - {r: 0.89435154, g: 0.9150943, b: 0.004316493, a: 1}
