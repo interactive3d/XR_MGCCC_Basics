@@ -1,0 +1,214 @@
+{
+    "name": "ToolsActionMap",
+    "maps": [
+        {
+            "name": "tool1",
+            "id": "04e7dbee-8326-4d97-883b-1264d3f88353",
+            "actions": [
+                {
+                    "name": "grab",
+                    "type": "Button",
+                    "id": "7fca8089-0b1e-4cf0-9ad5-3bc327d82f8b",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "changeColor",
+                    "type": "Button",
+                    "id": "00304d25-ddba-417a-80c8-02fde79f9598",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "531f9100-e00d-4092-b0ee-d22fe80a1c20",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "grab",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "22bb2d9e-4f3e-45a2-a541-27829b121263",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "changeColor",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "tool2",
+            "id": "f7dd2e70-f7e9-498a-8757-e359f54eb6bd",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "0eb0a262-4eb3-4140-a4c8-f896d06946e1",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "bf6ee6e1-dd22-42f3-8678-6c3514ae7c12",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "tool3",
+            "id": "1b75755b-a792-47c1-809f-eae4a5138768",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "16c00493-2661-41d4-bd9f-65d249cb3977",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "2882d705-0739-4ef9-bc1b-c8bf6b4287e1",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "tool4",
+            "id": "99956dea-8b88-4111-a246-7434ab7c2eb5",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "9f742a08-d430-4815-a71b-4cdcd4d5aea9",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6c843e15-1b7f-4188-90a6-e14fa6093def",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "tool5",
+            "id": "9a4a9e69-1ef7-42af-87fc-01a952cc6ba3",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "78be4cca-77b7-4f6b-bd21-ee6d8c035b97",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "7514ece6-b882-4649-966c-b3b34044164f",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "ToolActions",
+            "id": "e2a96ede-987a-4482-a67d-b1b0c596c272",
+            "actions": [
+                {
+                    "name": "grab",
+                    "type": "Button",
+                    "id": "f3fe4fad-9d70-488e-aad1-f3dace2f6db1",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "changeColor",
+                    "type": "Button",
+                    "id": "a127a074-3407-46ed-ae37-e12b6171d6c0",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "43e16b78-8eef-4e37-acea-01d87f8f9661",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "grab",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "51e32fc7-1c85-465c-a751-7fe90311bfa2",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "changeColor",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
